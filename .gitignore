@@ -1,0 +1,9 @@
+.venv/
+data/
+logs/
+__pycache__/
+*.pyc
+checkpoints/*
+!checkpoints/lenet_baseline.pth
+!checkpoints/lenet_modern.pth
+!checkpoints/alexnet_bn.pth
